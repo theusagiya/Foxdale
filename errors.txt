@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/Script/script.rpy", line 18: end of line expected.
+    show size = 400px green sex
+              ^
+
+Ren'Py Version: Ren'Py 7.4.8.1895
+Thu Sep 16 14:41:08 2021
